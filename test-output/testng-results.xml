@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="14710" started-at="2020-09-03T10:49:07Z" finished-at="2020-09-03T10:49:22Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="14710" started-at="2020-09-03T10:49:07Z" finished-at="2020-09-03T10:49:22Z">
+      <class name="com.CreateUser">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.CreateUser@31b7dea0]" name="setup" is-config="true" duration-ms="2813" started-at="2020-09-03T16:19:07Z" finished-at="2020-09-03T16:19:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Test01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.CreateUser@31b7dea0]" name="Test01" duration-ms="4828" started-at="2020-09-03T16:19:14Z" data-provider="getData" finished-at="2020-09-03T16:19:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumarivk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[veena]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kumarivk@amzon.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA["false]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[stiku@amazon.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[stiku]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[stiku]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method status="PASS" signature="Test01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.CreateUser@31b7dea0]" name="Test01" duration-ms="1734" started-at="2020-09-03T16:19:19Z" data-provider="getData" finished-at="2020-09-03T16:19:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bhissi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abhishek]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bhissi@amzon.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA["false]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[stiku@amazon.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[stiku]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[stiku]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method status="PASS" signature="Test01(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.CreateUser@31b7dea0]" name="Test01" duration-ms="1638" started-at="2020-09-03T16:19:20Z" data-provider="getData" finished-at="2020-09-03T16:19:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dushyan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dushyant]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dushyan@amazon.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA["false]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[stiku@amazon.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[stiku]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[stiku]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+      </class> <!-- com.CreateUser -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
